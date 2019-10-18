@@ -55,6 +55,7 @@ def naming_system
 #      }
 #    }
 # }
-puts PORTION_1[label: "kingdom"]
+puts PORTION_1[:label]
+
 
 end
