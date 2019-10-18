@@ -60,7 +60,7 @@ new_hash[:sub_category][:sub_category]= PORTION_2
 puts " "
 puts " "
 puts " "
-puts new_hash[:sub_category][:sub_category][:sub_category]
+puts new_hash
 puts " "
 puts " "
 puts " "
