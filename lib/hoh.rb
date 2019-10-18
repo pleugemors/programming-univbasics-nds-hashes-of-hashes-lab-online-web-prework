@@ -59,17 +59,6 @@ new_hash= PORTION_1
 new_hash[:sub_category][:sub_category][:sub_category]= PORTION_2
 new_hash[:sub_category][:sub_category][:sub_category][:sub_category]=PORTION_3
 new_hash[:sub_category][:sub_category][:sub_category][:sub_category][:sub_category][:sub_category]= PORTION_4
-puts " "
-puts " "
-puts " "
-puts new_hash
-puts " "
-puts " "
-puts " "
-
 new_hash
-
-
-
 
 end
