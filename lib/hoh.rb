@@ -55,7 +55,7 @@ def naming_system
 #      }
 #    }
 # }
-#puts PORTION_1[:label]
+puts PORTION_1[:sub_category]
 
 
 end
