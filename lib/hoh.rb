@@ -57,7 +57,7 @@ def naming_system
 # }
 new_hash= PORTION_1
 new_hash[:sub_category][:sub_category]= PORTION_2
-puts new_hash[:sub_category][:sub_category][:sub_category][:label]
+puts new_hash[:sub_category][:sub_category][:sub_category]
 new_hash
 
 
